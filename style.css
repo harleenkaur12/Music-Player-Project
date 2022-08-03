@@ -35,3 +35,10 @@ nav ul li{
     padding-left: 10px;
     padding-right: 10px;
 }
+.bottom{
+    position: sticky;
+    height: 130px;
+    bottom: 0;
+    background-color: black;
+
+}
