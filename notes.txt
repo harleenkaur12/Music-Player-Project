@@ -1,2 +1,3 @@
 use this file to just paste things you'll use in future
 "https://fonts.googleapis.com/css2?family=Varela+Round&display=swap"
+cursor: pointer;

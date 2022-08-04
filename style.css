@@ -3,7 +3,9 @@
 
 
 body{
-    background: rgb(246, 237, 191);
+    background-image: url("/aditya-chinchure-ZhQCZjr9fHo-unsplash.jpg");
+    background-size: auto;
+
 }
 
 *{
@@ -37,8 +39,37 @@ nav ul li{
 }
 .bottom{
     position: sticky;
-    height: 130px;
+    height: 100px;
     bottom: 0;
     background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+    
+
+
+}
+.icons{
+    margin-top: 15px;
+}
+.icons i{
+    cursor: pointer;
+}
+.container{
+    min-height: 64vh; /*75 percent of height*/
+    background-color: black;
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+    display: flex;
+    width: 70%;
+    margin: 23px auto;
+    border-radius: 12px;
+    padding: 30px;
+}
+
+#myProgressBar{
+    width: 80vw;
 
 }
