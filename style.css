@@ -45,9 +45,6 @@ nav ul li{
     align-items: center;
     color: white;
     flex-direction: column;
-    
-
-
 }
 .icons{
     margin-top: 15px;
@@ -65,7 +62,11 @@ nav ul li{
     margin: 23px auto;
     border-radius: 12px;
     padding: 30px;
-    background-image: url(/pexels-annam-w-1047442.jpg);
+    background-image: url(/aditya-chinchure-ZhQCZjr9fHo-unsplash.jpg);
+    background-size: cover;
+}
+.songlist{
+    color: white;
 }
 
 #myProgressBar{
