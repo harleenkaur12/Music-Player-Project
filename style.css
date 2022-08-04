@@ -3,9 +3,7 @@
 
 
 body{
-    background-image: url("/aditya-chinchure-ZhQCZjr9fHo-unsplash.jpg");
-    background-size: auto;
-
+   background-color: black;
 }
 
 *{
@@ -67,6 +65,7 @@ nav ul li{
     margin: 23px auto;
     border-radius: 12px;
     padding: 30px;
+    background-image: url(/pexels-annam-w-1047442.jpg);
 }
 
 #myProgressBar{
